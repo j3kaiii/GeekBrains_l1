@@ -1,4 +1,4 @@
-package Marathon;
+package Marathon.Interface;
 
 public interface Competitor {
     void run(int dist);

@@ -1,4 +1,6 @@
-package Marathon;
+package Marathon.Impementation;
+
+import Marathon.Interface.Animal;
 
 public class Cat extends Animal {
     public Cat(String name) {

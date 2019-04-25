@@ -1,4 +1,7 @@
-package Marathon;
+package Marathon.Impementation;
+
+import Marathon.Interface.Obstacle;
+import Marathon.Interface.Competitor;
 
 public class Water extends Obstacle {
     int length;

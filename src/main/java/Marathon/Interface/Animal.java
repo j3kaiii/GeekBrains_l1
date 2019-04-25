@@ -1,4 +1,6 @@
-package Marathon;
+package Marathon.Interface;
+
+import Marathon.Interface.Competitor;
 
 public class Animal implements Competitor {
     String type;

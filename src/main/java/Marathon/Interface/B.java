@@ -1,4 +1,4 @@
-package Marathon;
+package Marathon.Interface;
 
 public interface B {
     void voice();

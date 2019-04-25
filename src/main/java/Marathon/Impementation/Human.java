@@ -1,4 +1,6 @@
-package Marathon;
+package Marathon.Impementation;
+
+import Marathon.Interface.Competitor;
 
 public class Human implements Competitor {
     String name;
